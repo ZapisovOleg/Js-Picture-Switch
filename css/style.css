@@ -1,0 +1,13 @@
+.main-item{
+  display: flex;
+  justify-content: space-around;
+}
+.items{
+  background: url(../img/pic1.png);
+  height: 200px;
+  width: 200px;
+}
+
+.items-hidden{
+  background: url(../img/pic2.jpg);
+}
